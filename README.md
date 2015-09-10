@@ -7,6 +7,10 @@ Wed 2015-09-02
 Walk a tree of (arithmetic) operators and values and process them.
 Each node is an operator and each leaf node is a numeric value.
 
+Brian presented this basic problem to me as a possible interview
+question and I was inspired to write a developed version.
+
+
 To Run
 ------
 
